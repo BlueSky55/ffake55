@@ -10,7 +10,7 @@ clear
 echo $indigo
 date
 echo $dark"================================================="
-echo $red"             CIREBON PROGRAMMER COMUNITY"
+echo $red"             H11Hname Project Present"
 echo $dark"================================================="
 echo $purple"          TOOLS DESIGN FOR ATTACKING"
 echo $cyan"                Author : Suhandi"
@@ -19,7 +19,7 @@ echo $dark"================================================="
 echo $purple"MENU :" $yellow"                                     v2.3"
 echo $green"||" $red"Depes" $green"     ||" $dark"Deface"
 echo $green"||" $red"Explo" $green"     ||" $dark"Exploit"
-echo $green"||" $red"Trojan" $green"    ||" $dark"Distributed Danial Of Service"
+echo $green"||" $red"Trojan" $green"    ||" $dark"Distributed Denial Of Service/DDOS"
 echo $green"||" $red"Close" $green"     ||" $dark"Exit Program"
 echo
 echo $blue"MASUKAN PILIHAN ANDA"
